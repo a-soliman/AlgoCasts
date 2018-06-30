@@ -19,6 +19,6 @@ function fizzBuzz(n) {
       else if ( i % 3 === 0 ) console.log('Fizz');
       else console.log(i);
     }
-  }
+}
 
 module.exports = fizzBuzz;
